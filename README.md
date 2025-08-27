@@ -23,14 +23,11 @@
 ## 安装
 
 1) 克隆仓库
-- git clone https://github.com/yourname/yourrepo.git
-- cd yourrepo
+- git clone https://github.com/SoulNail/pdf_compress.git
+- cd pdf_compress
 
 2) 安装依赖
 - pip install PDFNetPython3
-
-3) 配置 License（可选但建议）
-- 在代码中找到 PDFNet.Initialize("demo:...") 并替换为你自己的 License Key。
 
 ## 使用方法
 
